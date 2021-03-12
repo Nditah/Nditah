@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any exciting challenge
 - 🤔 I’m looking for help with Elixir & Rust
 - 💬 Ask me about taking an idea and building a complete product
-- 📫 How to reach me: [Twitter](https://twitter.com/nditah_sammy) or [LinkedIn] (https://www.linkedin.com/in/nditah)
+- 📫 How to reach me: [Twitter](https://twitter.com/nditah_sammy) or [LinkedIn](https://www.linkedin.com/in/nditah)
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I share the same birthday with Mother Teresa
 
