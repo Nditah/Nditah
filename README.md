@@ -19,7 +19,7 @@ I have 7+ experience as a developer architecting solutions, writing software, bu
 - 🔭 I’m currently working at [PMT.ng](https://pmt.ng/) as CTO
 - 🌱 I’m currently learning: AI | Security | Leadership
 - 👯 I’m looking to collaborate on any exciting challenge
-- 🤔 I’m looking for help with Elixir & Rust
+- 🤔 I’m looking for help with Data Science, System Security, and Advanced Engineering Maths
 - 💬 Ask me about taking an idea and building a complete product
 - 📫 How to reach me: [Twitter](https://twitter.com/nditah_sammy) or [LinkedIn](https://www.linkedin.com/in/nditah)
 - 😄 Pronouns: He / Him 
