@@ -16,6 +16,7 @@ I have 7+ experience as a developer architecting solutions, writing software, bu
 
 ### Summary
 
+- 📚 Sam's blogs: [Dev.to](https://dev.to/nditah) | [Hashnode.dev](https://nditah.hashnode.dev/) | [Medium.com](https://nditah.medium.com/)
 - 🔭 I’m currently working at [PMT.ng](https://pmt.ng/) as CTO
 - 🌱 I’m currently learning: AI | Security | Leadership
 - 👯 I’m looking to collaborate on any exciting challenge
@@ -40,8 +41,3 @@ My regular tasks involve:
 - Learning, Adapting, and Managing crises
 
 I'm a Disrupter who turns innovative ideas into business solutions and sees enterprises rise to their optimal potential.
-
-### Blogs
-- [Dev.to](https://dev.to/nditah)
-- [Hashnode.dev](https://nditah.hashnode.dev/)
-- [Medium.com](https://nditah.medium.com/)
