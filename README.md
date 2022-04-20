@@ -39,4 +39,9 @@ My regular tasks involve:
 - Public speaking and running efficient meetings
 - Learning, Adapting, and Managing crises
 
-I'm a   disrupter who turns innovative ideas into business solutions and sees enterprises rise to their optimal potential.
+I'm a Disrupter who turns innovative ideas into business solutions and sees enterprises rise to their optimal potential.
+
+### Blogs
+- [Dev.to](https://dev.to/nditah)
+- [Hashnode.dev](https://nditah.hashnode.dev/)
+- [Medium.com](https://nditah.medium.com/)
