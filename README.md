@@ -29,15 +29,13 @@ I have 7+ experience as a developer architecting solutions, writing software, bu
 My regular tasks involve:
 
 - Develop technical aspects of the company’s strategy to ensure alignment with its business goals 
-- Ensuring technologies are used efficiently, profitably and securely 
 - Discovering, evaluating and implementing new technologies that yield a competitive advantage 
 - Retraining and recruiting developers, and building a great team
 - Helping Departments use technology profitably while monitoring compliance to company IT policy
 - Supervise system infrastructure to ensure functionality and efficiency 
 - Build quality assurance and data protection processes and capture data
-- Identifying and monitoring Key Performance Indicators and IT budgets to assess technological performance 
+- Identifying and monitoring KPIs and IT budgets to assess technological performance 
 - Use stakeholders’ feedback to inform necessary improvements and adjustments to technology
-- Managing the product life cycle
 - Public speaking and running efficient meetings
 - Learning, Adapting, and Managing crises
 
