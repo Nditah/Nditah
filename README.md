@@ -6,8 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-![Sail Freely](https://pbs.twimg.com/profile_banners/943112178/1580048849/600x200 "Work Remotely")
-
 I'm the CTO of PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower. I am also a #PrismaAmbassadors and an #AWScommunity Builder.
 
 I have 7+ experience as a developer architecting solutions, writing software, building teams, mentoring talents, and developing businesses with these technologies:
