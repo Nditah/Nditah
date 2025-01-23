@@ -17,7 +17,7 @@ I have 7+ experience as a developer architecting solutions, writing software, bu
 ### Summary
 
 - 📚 Sam's blogs: [Dev.to](https://dev.to/nditah) | [Hashnode.dev](https://nditah.hashnode.dev/) | [Medium.com](https://nditah.medium.com/)
-- 🔭 I’m currently working at [PMT.ng](https://CreateEnsemble.com/) as CTO
+- 🔭 I’m currently working at [CreateEnsemble](https://CreateEnsemble.com/) as CTO
 - 🌱 I’m currently learning: AI | Security | Leadership
 - 👯 I’m looking to collaborate on any exciting challenge
 - 🤔 I’m looking for help with Data Science, System Security, and Advanced Engineering Maths
